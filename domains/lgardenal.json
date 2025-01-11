@@ -1,0 +1,11 @@
+{
+  "description": "Documentation website for is-a.dev",
+  "repo": "https://github.com/LGardenal",
+  "owner": {
+    "username": "lgardenal",
+    "email": "gardenal.leandro@gmail.com"
+  },
+  "record": {
+    "CNAME": "lgardenal.github.io"
+  }
+}
